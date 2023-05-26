@@ -2,4 +2,6 @@
 .idea/
 dist/
 test_receiver/
+**/__pycache__/
+.DS_Store
 
