@@ -1,0 +1,1 @@
+DOCKER_BUILDKIT=1 docker build --platform amd64 --target=runtime .
